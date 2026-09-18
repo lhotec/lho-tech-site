@@ -11,7 +11,7 @@ Website institucional estático para a desenvolvedora Lho Tech Solutions. Site r
 │   ├── fio-certo.html              Política do app Fio Certo
 │   ├── blocup.html                 Política do app BlocUp
 │   ├── calculadora-trabalhista.html Política do app Calculadora Trabalhista
-│   └── pipe-water.html             Política do app Pipe Water
+│   └── pipe-flow.html               Política do app Pipe Flow
 ├── styles.css                      Estilos compartilhados (mobile-first)
 ├── assets/
 │   ├── icons/                      Ícones dos apps (512x512)
@@ -42,7 +42,7 @@ No Play Console, registre a URL da política de privacidade de cada app:
 - Fio Certo: `.../privacidade/fio-certo.html`
 - BlocUp: `.../privacidade/blocup.html`
 - Calculadora Trabalhista: `.../privacidade/calculadora-trabalhista.html`
-- Pipe Water: `.../privacidade/pipe-water.html`
+- Pipe Flow: `.../privacidade/pipe-flow.html`
 
 ## 📋 Checklist de entrega
 
